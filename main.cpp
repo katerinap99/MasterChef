@@ -1,5 +1,4 @@
-//Aikaterini Patsoura, 9496, aikpatste@ece.auth.gr
-//Papavasileiou Ioanna Maria,9375,ipapavas@ece.auth.gr
+
 #include "Player.h"
 #include "Team.h"
 #include "ImmunityCompetition.h"
